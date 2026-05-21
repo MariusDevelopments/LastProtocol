@@ -89,7 +89,3 @@ C++ tarafında `UHUDWidget::SetHealthBarPercent` fonksiyonu bu iki bileşeni ayn
 ## Unreal Kaynak Yapısı Notu
 
 Bu klasör şu an Unreal projesinin `Source` klasörü olarak çalışmaktadır. Bu yüzden yerel dosya ağacında C++ modülü `LastProtocol/` olarak görünür. Tam Unreal proje kökünde aynı dosyaların yolu normalde `Source/LastProtocol` olur.
-
-## GitHub Teslim Notu
-
-GitHub'a yüklerken çalışan demo için Unreal projesinin `.uproject`, `Content`, `Config` ve `Source` dosyaları da repoda bulunmalıdır. Bu teslim düzeninde ayrıca öğretmenin istediği `docs/`, `Src/` ve `README.md` dosyaları hazırlanmıştır.
